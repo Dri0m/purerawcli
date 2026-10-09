@@ -1,0 +1,7 @@
+test_images/*
+bin/
+design/*
+# macOS AppleDouble files from copying via non-Mac volumes
+._*
+# Raw file for the end-to-end test (see README)
+/input.*
